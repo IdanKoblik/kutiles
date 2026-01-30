@@ -1,2 +1,0 @@
-hash_table_tests 1 0.000624078
----

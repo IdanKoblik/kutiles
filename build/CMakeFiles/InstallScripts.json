@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/idan/projects/personal/kutiles/build/cmake_install.cmake",
-		"/home/idan/projects/personal/kutiles/build/tests/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
