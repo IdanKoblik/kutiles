@@ -1,0 +1,8 @@
+/home/idan/projects/personal/kutiles/build/CMakeFiles/kutiles.dir
+/home/idan/projects/personal/kutiles/build/CMakeFiles/test.dir
+/home/idan/projects/personal/kutiles/build/CMakeFiles/edit_cache.dir
+/home/idan/projects/personal/kutiles/build/CMakeFiles/rebuild_cache.dir
+/home/idan/projects/personal/kutiles/build/tests/CMakeFiles/test_hash_table.dir
+/home/idan/projects/personal/kutiles/build/tests/CMakeFiles/test.dir
+/home/idan/projects/personal/kutiles/build/tests/CMakeFiles/edit_cache.dir
+/home/idan/projects/personal/kutiles/build/tests/CMakeFiles/rebuild_cache.dir

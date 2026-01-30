@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/test_hash_table.dir/link.d CMakeFiles/test_hash_table.dir/test_hash_table.c.o -o test_hash_table  ../libkutiles.a
